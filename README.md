@@ -1,5 +1,5 @@
 # Learning Compact Representations of NeuralNetworks using DiscriminAtive Masking (DAM)
 
-This repository offers the code for reproducing experiment results for DAM paper.
-Learning Compact Representations of NeuralNetworks using DiscriminAtive Masking (DAM)
-PyTorch Official Implementation of DiscriminAtive Masking (NeurIPS 2021)
+This repository offers the codes for reproducing experiment results for the paper.
+
+*Code will be available soon, thanks!*
