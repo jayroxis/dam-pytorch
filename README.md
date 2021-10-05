@@ -44,7 +44,7 @@ class DAM(nn.Module):
     def mask(self):
         return self.relu(self.tanh((self.alpha ** 2) * (self.mu + self.beta)))
 ```
-The 1-D DAM module takes feature maps (2D matrices) as input (e.g., used in CNN), which can be implemented as the following:
+The 2-D DAM module takes feature maps (2D matrices) as input (e.g., used in CNN), which can be implemented as the following:
 ```python
 class DAM_2d(nn.Module):
     """ Discriminative Amplitude Modulator Layer (2-D) """
