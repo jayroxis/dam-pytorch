@@ -71,7 +71,7 @@ class DAM_2d(nn.Module):
 
 -------------
 
-# Minimal Example: Network Pruning using 1-D DAM Module
+# Minimal Example: Pruning MLP using 1-D DAM Module
 ```python
 import torch
 import torch as nn
