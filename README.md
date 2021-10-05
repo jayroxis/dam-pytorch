@@ -15,6 +15,10 @@ This repository offers the codes for reproducing experiment results for the pape
 
 *Code for reproducing the paper's results will be available soon, thanks!*
 
+-------------
+
+# DAM Modules
+
 The 1-D DAM module takes vectors as input (e.g., used in MLP), which can be implemented as the following:
 ```python
 class DAM(nn.Module):
@@ -64,6 +68,8 @@ class DAM_2d(nn.Module):
     def mask(self):
         return self.relu(self.tanh((self.alpha ** 2) * (self.mu + self.beta)))
 ```
+
+-------------
 
 # Minimal Example: Network Pruning using 1-D DAM Module
 ```python
