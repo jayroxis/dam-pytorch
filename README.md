@@ -13,6 +13,8 @@ This repository offers the codes for reproducing experiment results for the pape
 }
 ```
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oPbcQNrhwaw/0.jpg)](https://www.youtube.com/watch?v=oPbcQNrhwaw)
+
 *For any issues regarding the code, please contact us via the [issue](https://github.com/jayroxis/dam-pytorch/issues) page!*
 
 -------------
