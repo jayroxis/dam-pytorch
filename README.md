@@ -12,12 +12,20 @@ This repository offers the codes for reproducing experiment results for the pape
       primaryClass={cs.LG}
 }
 ```
+<div align="center">
+      <img 
+            src="vis_dam.gif" 
+            style="width:75%;"
+      >
+</div>
+
+### Video Presentation
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=oPbcQNrhwaw">
             <img 
             src="https://img.youtube.com/vi/oPbcQNrhwaw/0.jpg" 
-            alt="Everything Is AWESOME" 
+            alt="Discriminative Masking" 
             style="width:75%;">
       </a>
 </div>
