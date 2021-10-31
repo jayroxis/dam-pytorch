@@ -1,4 +1,4 @@
-# Network Pruning Using PreResNet
+# Structured Network Pruning
 
 This is the repository for the structured pruning results for ResNet.
 
