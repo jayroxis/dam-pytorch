@@ -27,7 +27,7 @@ This repository offers the codes for reproducing experiment results for the pape
 
 -------------
 
-# DAM Modules
+# Usage of DAM Modules
 
 The 1-D DAM module takes vectors as input (e.g., used in MLP), which can be implemented as the following:
 ```python
