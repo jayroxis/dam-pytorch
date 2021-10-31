@@ -1,4 +1,4 @@
-# DAM
+# Network Pruning Using PreResNet
 
 This is the repository for the structured pruning results for ResNet.
 
