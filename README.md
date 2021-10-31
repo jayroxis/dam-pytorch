@@ -13,7 +13,7 @@ This repository offers the codes for reproducing experiment results for the pape
 }
 ```
 
-*Code for reproducing the paper's results will be available soon, thanks!*
+*For any issues regarding the code, please contact us via the [issue](https://github.com/jayroxis/dam-pytorch/issues) page!*
 
 -------------
 
