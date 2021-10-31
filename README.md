@@ -2,6 +2,19 @@
 
 This repository offers the codes for reproducing experiment results for the paper: https://arxiv.org/abs/2110.00684
 
+<div align="center">
+      <figure>
+      <img 
+            src="vis_dam.gif" 
+            style="width:50%;"
+      >
+      <br>
+      <figcaption>Figure.1 - Gate function of DAM.</figcaption>
+      </figure>
+</div>
+
+<br>
+
 ```
 @misc{bu2021learning,
       title={Learning Compact Representations of Neural Networks using DiscriminAtive Masking (DAM)}, 
@@ -12,14 +25,11 @@ This repository offers the codes for reproducing experiment results for the pape
       primaryClass={cs.LG}
 }
 ```
-<div align="center">
-      <img 
-            src="vis_dam.gif" 
-            style="width:75%;"
-      >
-</div>
 
-### Video Presentation
+
+-------
+
+## Video Presentation
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=oPbcQNrhwaw">
