@@ -13,9 +13,15 @@ This repository offers the codes for reproducing experiment results for the pape
 }
 ```
 
-<p align="center">
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oPbcQNrhwaw/0.jpg)](https://www.youtube.com/watch?v=oPbcQNrhwaw)
-<\p>
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=oPbcQNrhwaw">
+            <img 
+            src="https://img.youtube.com/vi/oPbcQNrhwaw/0.jpg" 
+            alt="Everything Is AWESOME" 
+            style="width:75%;">
+      </a>
+</div>
+
 
 *For any issues regarding the code, please contact us via the [issue](https://github.com/jayroxis/dam-pytorch/issues) page!*
 
