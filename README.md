@@ -122,6 +122,7 @@ class Net(nn.Module):
         return self.layers(x)
 ```
 If we want to prune all the layers, simply add the DAM module to the end of every layer as demonstrated in the following example:
+
 ```python
 class Net(nn.Module):
     def __init__(self, in_dim, out_dim):
